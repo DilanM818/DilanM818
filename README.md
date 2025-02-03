@@ -11,9 +11,9 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 
 ## 🌱 Currently Exploring
 
-🔸 🚀 Python and Bash for automation.
+🔸 Python and Bash for automation.
 <br />
-🔸 🌱 Game Development utilizing Unreal Engine.
+🔸 Game Development utilizing Unreal Engine.
 <br />
 
 ## 🏆 Certifications
