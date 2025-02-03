@@ -22,7 +22,7 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 🔸 CompTIA A+
 <br />
 
-## 📝 Certification Goals
+## 🎯 Certification Goals
 🔸 Certified Information Systems Security Professional (CISSP)
 <br />
 🔸 HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
