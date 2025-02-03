@@ -11,28 +11,39 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 
 ## 🌱 Currently Exploring
 
-- 🚀 Python and Bash for automation.
-- 🌱 Game Development utilizing Unreal Engine.
+🔸 🚀 Python and Bash for automation.
+<br />
+🔸 🌱 Game Development utilizing Unreal Engine.
+<br />
 
 ## 🏆 Certifications
-- Cisco Certified Network Associate (CCNA)
-- CompTIA A+
+🔸 Cisco Certified Network Associate (CCNA)
+<br />
+🔸 CompTIA A+
+<br />
 
 ## 📝 Certification Goals
-- Certified Information Systems Security Professional (CISSP)
-- HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
-- Cisco CyberOps Associate (CBROPS)
-- Certified Ethical Hacker (CEH)
-- Offensive Security Certified Professional (OSCP)
-- Cisco Certified Network Professional Security (CCNP Security)
-- Cisco Certified Internetwork Expert Security (CCIE Security)
+🔸 Certified Information Systems Security Professional (CISSP)
+<br />
+🔸 HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
+<br />
+🔸 Cisco CyberOps Associate (CBROPS)
+<br />
+🔸 Certified Ethical Hacker (CEH)
+<br />
+🔸 Offensive Security Certified Professional (OSCP)
+<br />
+🔸 Cisco Certified Network Professional Security (CCNP Security)
+<br />
+🔸 Cisco Certified Internetwork Expert Security (CCIE Security)
+<br />
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/dilanmonge)
+🔸 Connect with me on [LinkedIn](https://www.linkedin.com/in/dilanmonge)
+<br />
 
-![Dilan's Stats](https://github-readme-stats.vercel.app/api?username=DilanM818&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-Thanks for stopping by!
-
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api?username=DilanM818&theme=vue-dark&show_icons=true&hide_border=true&count_private=true/>
+</p>
 <!-- -->
