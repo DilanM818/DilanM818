@@ -1,7 +1,8 @@
 # Hi, I'm Dilan! 👋
 
-![](https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
-
+<p align="center">
+  <img src=https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif/>
+</p>
 
 I am a highly motivated and results-oriented IT professional with a strong background in technical support and customer service. Currently, I am pursuing certifications such as CISSP, HTB CPTS, and HTB CBBH to transition into a career as a penetration tester. My journey involves delving into the world of cybersecurity and continuously improving my technical skills.
 
