@@ -15,7 +15,7 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 - CompTIA A+
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,nmap,py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,py,bash)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
