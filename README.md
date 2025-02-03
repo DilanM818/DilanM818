@@ -6,8 +6,8 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 
 ## 🚀 About Me
 
-- 📚 Pursuing certifications such as CISSP, HTB CPTS, and HTB CBBH to become a penetration tester.
-- 🌱 I am currently learning Python and Bash, with plans to upload projects to this GitHub repository.
+- 📚 Pursuing certifications such as CISSP, HTB CPTS, and HTB CBBH.
+- 🌱 I am currently learning Python and Bash.
 - 💼 Canadian Armed Forces Veteran, where I served as a Communications Security (COMSEC) Custodian and Signal Operator.
 
 ## 🏆 Certifications
