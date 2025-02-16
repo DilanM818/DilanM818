@@ -9,17 +9,21 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,vim,py,bash)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-
-🔸 Python and Bash for automation.
-<br />
-🔸 Game Development utilizing Unreal Engine.
+## 🔬 Projects
+🔸[Active Directory Administration - Basic](https://github.com/DilanM818/AD-HTB-Lab)
 <br />
 
 ## 🏆 Certifications
 🔸 Cisco Certified Network Associate (CCNA)
 <br />
 🔸 CompTIA A+
+<br />
+
+## 🌱 Currently Exploring
+
+🔸 Python and Bash for automation.
+<br />
+🔸 Game Development utilizing Unreal Engine.
 <br />
 
 ## 🎯 Certification Goals
