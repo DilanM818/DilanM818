@@ -48,6 +48,6 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 <br />
 
 <p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=DilanM818&theme=vue-dark&show_icons=true&hide_border=true&count_private=true/>
+  <img src=https://github-readme-stats.vercel.app/api?username=DilanM818&theme=vue-dark&show_icons=true&hide_border=true&count_private=false/>
 </p>
 <!-- -->
