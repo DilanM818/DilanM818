@@ -12,7 +12,7 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 ## 🔬 Projects
 🔸[Reverse Shell - Basic](https://github.com/DilanM818/Reverse-Shell)
 <br />
-🔸[Webpage Crawler and Password Mutator](https://github.com/DilanM818/Web-Crawler)
+🔸[Web Wordlist Generator and Password Mutator](https://github.com/DilanM818/Wordlist-Generator)
 <br />
 🔸[Active Directory Administration - Basic](https://github.com/DilanM818/AD-HTB-Lab)
 <br />
