@@ -7,7 +7,7 @@
 I am a highly motivated and results-oriented IT professional with a strong background in technical support and customer service. Currently, I am pursuing certifications such as CISSP and HTB CPTS to transition into a career as a penetration tester. My journey involves delving into the world of cybersecurity and continuously improving my technical skills.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,vim,py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,vim,py)](https://skillicons.dev)
 
 ## 🔬 Projects
 🔸[Reverse Shell - Basic](https://github.com/DilanM818/Reverse-Shell)
