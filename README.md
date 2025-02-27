@@ -31,9 +31,9 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 <br />
 
 ## 🎯 Certification Goals
-🔸 Certified Information Systems Security Professional (CISSP)
+🔸 Certified Information Systems Security Professional (CISSP) - In Progress
 <br />
-🔸 HackTheBox Certified Penetration Testing Specialist (HTB CPTS)
+🔸 HackTheBox Certified Penetration Testing Specialist (HTB CPTS) - In Progress
 <br />
 🔸 Cisco CyberOps Associate (CBROPS)
 <br />
