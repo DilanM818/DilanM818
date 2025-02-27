@@ -10,7 +10,7 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,vim,py)](https://skillicons.dev)
 
 ## 🔬 Projects
-🔸[Reverse Shell - Basic](https://github.com/DilanM818/Reverse-Shell)
+🔸[Simple Bind Shell](https://github.com/DilanM818/Reverse-Shell)
 <br />
 🔸[Web Wordlist Generator and Password Mutator](https://github.com/DilanM818/Wordlist_Generator)
 <br />
