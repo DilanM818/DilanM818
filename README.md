@@ -27,7 +27,11 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 
 🔸 Python and Bash for automation.
 <br />
-🔸 Game Development utilizing Unreal Engine.
+🔸 Unreal Engine for Game Development
+<br />
+🔸 Learning C++
+<br />
+🔸 Learning Blender
 <br />
 
 ## 🎯 Certification Goals
