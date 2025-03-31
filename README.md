@@ -39,7 +39,7 @@ I am a highly motivated and results-oriented IT professional with a strong backg
 <br />
 🔸 HackTheBox Certified Penetration Testing Specialist (HTB CPTS) - In Progress
 <br />
-🔸 Cisco Certified Cybersecurity Associate (CBROPS)
+🔸 Cisco Certified Cybersecurity Associate 
 <br />
 🔸 Certified Ethical Hacker (CEH)
 <br />
